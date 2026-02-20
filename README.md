@@ -3,9 +3,8 @@ AICTE Internship
 
 
 
-**Team ID:**  LTVIP2026TMIDS65912 
+**Team ID:**  LTVIP2026TMIDS65912
 **Team Size:** 4
-
 **Team Leader:** Adapala Naga Balaji  
 **Team Members:**
 - Akula Sujan
