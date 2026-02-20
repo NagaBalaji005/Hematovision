@@ -1,13 +1,14 @@
 # HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
 AICTE Internship
 
-**Team ID:**  LTVIP2026TMIDS65912
-**Team Size:** 4
+**Team ID:** LTVIP2026TMIDS65912  
+**Team Size:** 4  
 **Team Leader:** Adapala Naga Balaji  
-**Team Members:**
-- Akula Sujan
-- Allaparthi Akshaya
-- Annapareddy Sai Tarun Reddy
+
+**Team Members:**  
+- Akula Sujan  
+- Allaparthi Akshaya  
+- Annapareddy Sai Tarun Reddy  
 
 ## Project Overview
 Hematovision is a deep learning project designed to classify blood cell images into four distinct categories: **Eosinophil, Lymphocyte, Monocyte, and Neutrophil**. The project utilizes **Transfer Learning** with the **MobileNetV2** architecture to achieve high accuracy. It includes a training script to build the model and a Flask-based web application for user-friendly interaction.
